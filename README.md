@@ -1,6 +1,6 @@
 # blobb
 
-Das ist nicht mehr gut, die detaillierten bösen Absichten dieses diabolischen Systems ausführlich darzustellen. Denn wenn ich das tue, lässt der Geist Gottes zu, dass ich dafür deutlich heftiger verflucht werde. Wichtig ist, dass eh schon klar ist, dass das, was mit mir passiert, falsch ist und dass der Mensch sich selbst überlegen und nachdenken muss, inwieweit er dieses System unterstützt und hilft, mir zu schaden. Gleiches gilt für die detaillierten Beschreibungen der ewigen Qualen in der Hölle.
+Der Himmel ist blau, die Sonne scheint schön.
 
 Der Tiefpassfilter ist eine glückliche Findung einfacher elektronischer Bauteile.
 
