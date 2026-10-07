@@ -1,5 +1,5 @@
 # Familienchronik & Stammbaum: Epp, Thiessen, Bergen & Janzen
-**Mennonitische Migrationslinie: Westpreußen → Ukraine → Paraguay → Deutschland**
+**Mennonitische Migrationslinie: Westpreußen >> Ukraine >> Paraguay >> Deutschland**
 
 ---
 
@@ -92,6 +92,16 @@ Kinder von **Franz Bergen** (* 1912) & **Maria, geb. Wiebe** (* 1913):
   * **Heinrich Janzen** (* 12.09.1885 in der Ukraine)
   * **Margarethe Janzen, geborene Friesen** (* 04.04.1888 in der Ukraine)
 
+### Linie Bergen / Wiebe (Forschungsstand)
+* **Eltern von Franz Bergen (* 05.02.1912):**
+  * **[Name des Vaters] Bergen** (* ca. 1880–1888 in der Ukraine / Kolonie Chortitza)
+  * **[Name der Mutter] Bergen, geborene [Geburtsname]** (* ca. 1882–1890 in der Ukraine)
+  * *Hinweis:* Heimatgemeinde der Familie lag primär im Chortitza-Bezirk (u. a. Neuendorf / Schönhorst) vor der Evakuierung 1943.
+
+* **Eltern von Maria Wiebe (* 11.08.1913):**
+  * **[Name des Vaters] Wiebe** (* ca. 1880–1888 in der Ukraine / Kolonie Molotschna od. Chortitza)
+  * **[Name der Mutter] Wiebe, geborene [Geburtsname]** (* ca. 1882–1890 in der Ukraine)
+
 ---
 
 ## 6. Hierarchischer Stammbaum-Überblick
@@ -99,6 +109,8 @@ Kinder von **Franz Bergen** (* 1912) & **Maria, geb. Wiebe** (* 1913):
 * **Generation 5 (Urur-Großeltern):**
   * Franz Thiessen (* 1888) ∞ Anna Wiebe (* 1890)
   * Heinrich Janzen (* 1885) ∞ Margarethe Friesen (* 1888)
+  * [Vorname] Bergen ∞ [Vorname] [Mädchenname]
+  * [Vorname] Wiebe ∞ [Vorname] [Mädchenname]
 * **Generation 4 (Urgroßeltern):**
   * Franz Thiessen (* 1913) ∞ Margarethe Janzen (* 1915)
   * Franz Bergen (* 1912) ∞ Maria Wiebe (* 1913)
@@ -115,4 +127,6 @@ Kinder von **Franz Bergen** (* 1912) & **Maria, geb. Wiebe** (* 1913):
 
 * **Thiessen-Stamm:** Mennonitengemeinde Tiegenhagen / Ladekopp (Westpreußen)
 * **Janzen-Stamm:** Mennonitengemeinde Rosenort / Ellerwald (Westpreußen)
+* **Bergen-Stamm:** Mennonitengemeinde Tiegenhagen / Rosenort (Westpreußen)
+* **Wiebe-Stamm:** Mennonitengemeinde Heubuden / Ellerwald (Westpreußen)
 * **Auswanderung nach Russland/Ukraine:** Zeitraum ca. 1789–1803 (Ansiedlung in den Kolonien Chortitza und Molotschna)
